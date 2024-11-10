@@ -6,4 +6,4 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-green?logo=python)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadeev-dm_icons=true&theme=radical)
